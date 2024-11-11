@@ -8,12 +8,6 @@ import PortfolioPreview from '../components/PortfolioPreview.astro';
 import Hero from '../components/Hero.astro';
 import Grid from '../components/Grid.astro';
 
-const textLinks: { label: string; href: string }[] = [
-  { label: "Home", href: "/" },
-  { label: "Work", href: `${import.meta.env.BASE_URL}work/` },
-  { label: "About", href: "/about/" },
-];
-
 const projects = (await getCollection('work')).sort(
 	(a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf(),
 );

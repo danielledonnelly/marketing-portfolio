@@ -24,14 +24,14 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 <nav>
 	<div class="menu-header">
 		<a href="/" class="site-title">
-			<Icon icon="terminal-window" color="var(--accent-regular)" size="1.6em" gradient />
+			<!-- <Icon icon="terminal-window" color="var(--accent-regular)" size="1.6em" gradient /> -->
 			Jeanine White
 		</a>
 		<menu-button>
 			<template>
 				<button class="menu-button" aria-expanded="false">
 					<span class="sr-only">Menu</span>
-					<Icon icon="list" />
+					<!-- <Icon icon="list" /> -->
 				</button>
 			</template>
 		</menu-button>
@@ -63,6 +63,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 	<noscript>
 		<div class="menu-footer">
 			<div class="socials">
+				<!--
 				{
 					iconLinks.map(({ href, icon, label }) => (
 						<a href={href} class="social">
@@ -71,6 +72,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 						</a>
 					))
 				}
+				-->
 			</div>
 		</div>
 	</noscript>
@@ -99,6 +101,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 		</ul>
 		<div class="menu-footer">
 			<div class="socials">
+				<!--
 				{
 					iconLinks.map(({ href, icon, label }) => (
 						<a href={href} class="social">
@@ -107,6 +110,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 						</a>
 					))
 				}
+				-->
 			</div>
 
 			<div class="theme-toggle">
