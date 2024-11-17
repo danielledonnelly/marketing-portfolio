@@ -1,7 +1,7 @@
 ---
 title: Blogs
 publishDate: 2020-03-02 00:00:00
-img: /2025-portfolio/assets/stock-1.jpg
+img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   I’m passionate about making complex topics accessible and engaging for readers. Drawing from my experience in tech, education, and marketing, I specialize in transforming big ideas into clear insights.

@@ -1,7 +1,7 @@
 ---
 title: Social
 publishDate: 2019-10-02 00:00:00
-img: /2025-portfolio/assets/stock-4.jpg
+img: /assets/stock-4.jpg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
   My approach to social media is fun and fresh, designed to spark connection. Canva has been my go-to for projects ranging from formal event invitations to game development assets, so you can trust me to create standout visuals for any social media platform, whatever the concept.
