@@ -1,7 +1,7 @@
 ---
 title: Games
 publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
+img: /2025-portfolio/assets/stock-2.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   I thrive on the creative challenge of independent game development, crafting every detail from concept to completion. With experience in storytelling, visual design, coding, project management, and quality testing, I bring fun interactive gameplay experiences to life.
