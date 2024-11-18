@@ -13,23 +13,19 @@ tags:
 
 ## Level-two heading
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Clear, compelling, and creative content that speaks to every reader.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+Ever heard the phrase "explain it to me like I'm five"? I have experience communicating with a wide range of audiences from different backgrounds. From covering education tools like Zorbit's Math Adventure to industry insights with Carnegie Learning, my blog writing turns complex topics into approachable, digestible content. Whether it's demystifying educational technology or exploring intricate marketing strategies, my writing focuses on clarity and connection.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
-
-### Level-three heading
+### Breaking down complexity
 
 Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
 
-### Level-three heading
+### A Blend of Professional and Passionate
+My portfolio combines the precision of professional ghostwriting with the creativity of personal projects. Beyond corporate content, I enjoy crafting thoughtful pieces on topics I love—always with a marketing and communications mindset, ensuring every piece resonates with its audience.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
-
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
+#### Highlights
+Here are a few blogs that I've worked on.
+- <a href="https://www.carnegielearning.com/blog/success-spotlight-indian-river/" Ways a Delaware District Encouraged Students to Use MATHia></a>
+- <a href="https://www.carnegielearning.com/blog/record-breaking-assessment-scores-oregon/" Success Spotlight: Record-Breaking State Assessment Scores at Howard Street Charter School></a>
+- <a href="https://www.carnegielearning.com/blog/8-tips-for-women-in-leadership/" 8 Tips FOR Women in Leadership, FROM Women in Leadership></a>
