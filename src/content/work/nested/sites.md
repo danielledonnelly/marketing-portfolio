@@ -1,7 +1,7 @@
 ---
 title: Sites
 publishDate: 2024-03-04 00:00:00
-img: 2025-portfolio/assets/stock-3.jpg
+img: /2025-portfolio/assets/stock-3.jpg
 img_alt: A site called Starry Notes, an out-of-this-world web app for notes that was created using React and Vite.
 description: |
   I bring a designer’s eye to every project, focusing on crafting user-friendly interfaces that feel intuitive and sleek. With experience in SEO, responsive design, and accessibility, I build sites that not only look great but are built to reach and engage diverse audiences.
