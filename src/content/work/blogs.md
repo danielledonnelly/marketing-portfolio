@@ -11,18 +11,16 @@ tags:
   - Marketing
 ---
 
-## Level-two heading
+## Where storytelling meets marketing
 
 > Clear, compelling, and creative content that speaks to every reader.
 
-Ever heard the phrase "explain it to me like I'm five"? I have experience communicating with a wide range of audiences from different backgrounds. From covering education tools like Zorbit's Math Adventure to industry insights with Carnegie Learning, my blog writing turns complex topics into approachable, digestible content. Whether it's demystifying educational technology or exploring intricate marketing strategies, my writing focuses on clarity and connection.
-
 ### Breaking down complexity
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+Ever heard the phrase "explain it to me like I'm five"? I have experience communicating with a wide range of audiences from different backgrounds. From covering education tools like Zorbit's Math Adventure to industry insights with Carnegie Learning, my blog writing turns complex topics into approachable, digestible content. Whether it's demystifying educational technology or exploring intricate marketing strategies, my writing focuses on clarity and connection.
 
-### A Blend of Professional and Passionate
-My portfolio combines the precision of professional ghostwriting with the creativity of personal projects. Beyond corporate content, I enjoy crafting thoughtful pieces on topics I love—always with a marketing and communications mindset, ensuring every piece resonates with its audience.
+### Professional and Passionate
+My experience combines the precision of professional ghostwriting with the creativity of personal projects. Beyond corporate content, I enjoy crafting thoughtful pieces on topics I love—always with a marketing and communications mindset, ensuring every piece resonates with its audience.
 
 #### Highlights
 Here are a few blogs that I've worked on.
