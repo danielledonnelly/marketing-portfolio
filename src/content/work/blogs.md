@@ -24,6 +24,6 @@ My experience combines the precision of professional ghostwriting with the creat
 
 #### Highlights
 Here are a few blogs that I've worked on.
-- <a href="https://www.carnegielearning.com/blog/success-spotlight-indian-river/" Ways a Delaware District Encouraged Students to Use MATHia></a>
-- <a href="https://www.carnegielearning.com/blog/record-breaking-assessment-scores-oregon/" Success Spotlight: Record-Breaking State Assessment Scores at Howard Street Charter School></a>
-- <a href="https://www.carnegielearning.com/blog/8-tips-for-women-in-leadership/" 8 Tips FOR Women in Leadership, FROM Women in Leadership></a>
+- <a href="https://www.carnegielearning.com/blog/success-spotlight-indian-river/">Ways a Delaware District Encouraged Students to Use MATHia</a>
+- <a href="https://www.carnegielearning.com/blog/record-breaking-assessment-scores-oregon/">Success Spotlight: Record-Breaking State Assessment Scores at Howard Street Charter School</a>
+- <a href="https://www.carnegielearning.com/blog/8-tips-for-women-in-leadership/">8 Tips FOR Women in Leadership, FROM Women in Leadership</a>
