@@ -1,7 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 const { project } = Astro.props;
-const imageUrl = `https://danielledonnelly.github.io/2025-portfolio/${project.data.img}`;
+const imageUrl = `https://danielledonnelly.github.io/${project.data.img}`;
 
 interface Props {
 	project: CollectionEntry<'work'>;
