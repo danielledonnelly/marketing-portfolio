@@ -1,6 +1,6 @@
 ---
 title: Social
-publishDate: 2019-10-02 00:00:00
+publishDate: 2015-01-02 00:00:00
 img: /2025-portfolio/assets/stock-4.jpg
 img_alt: A social media post of a testimonial for Zorbit's Math Adventure from a teacher at NLESD.
 description: |
