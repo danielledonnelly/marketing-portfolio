@@ -6,4 +6,4 @@ export default defineConfig({
   base: '/2025-portfolio/',
 });
 
-export const SITE = 'https://danielledonnelly.github.io/2025-portfolio/';
+export const SITE = 'https://danielledonnelly.github.io/marketing-portfolio/';

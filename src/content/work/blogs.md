@@ -2,6 +2,7 @@
 title: Blogs
 publishDate: 2020-03-02 00:00:00
 img: /2025-portfolio/assets/stock-1.jpg
+# When I switch 2025-portfolio out for marketing-portfolio the image breaks, even though marketing-portfolio is a copy of 2025-portfolio but with a new base and repo. Why?
 img_alt: A Carnegie Learning blog called Record-Breaking State Assessment Scores at Howard Street Charter School
 description: |
   I’m passionate about making complex topics accessible and engaging for readers. Drawing from my experience in tech, education, and marketing, I specialize in transforming big ideas into clear insights.

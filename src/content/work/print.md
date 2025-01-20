@@ -6,9 +6,9 @@ img_alt: An idle clicker Halloween game called Spooky Potion Shop that was devel
 description: |
   I thrive on the creative challenge of drafting print content that pops off the page. With experience working in a range of mediums (brochures, posters, flyers, letters, etc.), I know how to make any format work.
 tags:
+  - Copywriting
   - Design
-  - Development
-  - Storytelling
+  - Operations
 ---
 
 >#### Informing and educating
