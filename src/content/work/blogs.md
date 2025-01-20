@@ -15,10 +15,10 @@ tags:
 
 > Clear, compelling, and creative content that speaks to every reader.
 
-### Breaking down complexity
+>#### Breaking down complexity
 Ever heard of the phrase "explain it to me like I'm five"? I have experience communicating with a wide range of audiences from different backgrounds. From writing about K-3 education with Zorbit's Math Adventure to industry insights with Carnegie Learning, my blog writing turns complex topics into approachable, digestible content. Whether it's demystifying edtech or exploring intricate marketing strategies, my writing focuses on clarity.
 
-### Professional and Passionate
+>#### Professional and Passionate
 My experience combines the precision of professional ghostwriting with the creativity of personal projects. Beyond corporate content, I enjoy crafting thoughtful pieces on topics I love—always with a marketing and communications mindset, ensuring every piece resonates with its audience.
 
 #### Highlights

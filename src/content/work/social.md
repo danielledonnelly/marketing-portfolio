@@ -16,7 +16,7 @@ tags:
 >
 
 >#### Building connections
-From writing punchy captions to crafting thoughtful long-form posts, I excel at creating content tailored for any platform. I’ve gained experience working with a variety of audiences, from educators to industry professionals, by developing engaging content that sparks conversations. Whether it’s drafting attention-grabbing graphics, designing dynamic videos, or planning a cohesive content strategy, my work ensures every post makes an impact.
+From writing punchy captions to crafting thoughtful long-form posts, I excel at creating content tailored for any platform. I’ve gained experience working with a variety of audiences by developing engaging content that sparks conversations. Whether it’s drafting attention-grabbing graphics, designing dynamic videos, or planning a cohesive content strategy, my work ensures every post makes an impact.
 
 >#### Strategic and Creative  
 With a blend of professional experience and personal passion, I approach social media content with both strategy and flair. I enjoy exploring new formats and trends while keeping the message clear and audience-focused. Every post I create aims to resonate, inspire, and drive engagement.  
