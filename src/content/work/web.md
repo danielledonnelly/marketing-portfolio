@@ -1,6 +1,6 @@
 ---
 title: Web
-publishDate: 2024-03-04 00:00:00
+publishDate: 2015-01-25 00:00:00
 img: /marketing-portfolio/assets/stock-3.jpg
 img_alt: A site called Starry Notes, an out-of-this-world web app for notes that was created using React and Vite.
 description: |
@@ -20,14 +20,15 @@ I have experience designing eye-catching sites in both a personal and profession
 visuals for whatever your project needs.
 
 >#### Bringing it all together
- I've managed professional websites using a range of CMS: WordPress, Prismic, and ExpressionEngine. I've also built many independent projects with tools like Visual Studio Code, GitHub Pages, and Cloudflare Pages. Whether you're looking to update an existing site or build one from scratch, I have you covered.
+ I've managed and updated professional websites using a range of CMS platforms: WordPress, Prismic, and ExpressionEngine. 
+ I have also built many self-directed projects of my own with tools like Visual Studio Code, GitHub Pages, and Cloudflare Pages. 
 
 ### Highlights  
-Here are a few examples of sites that I've contributed to. Please note that the first two examples are from my professional work, while the latter three are personal projects that I crafted independently.
+Here are a few examples of sites that I've contributed to. Please note that the first two examples are from my professional work, while the latter three are personal projects that I created independently.
 - <a href="https://atlanticedgecu.ca/">Atlantic Edge Credit Union Site*</a>
 - <a href="https://www.carnegielearning.ca/">(Zorbit's Math) Carnegie Learning Site</a>
 
 - <a href="https://marketing-checklists.pages.dev/">Marketing Checklists Web App</a>
 - <a href="https://danielledonnelly.github.io/Starry-Notes/">Starry Notes Web App</a>
 - <a href="https://danielledonnelly.github.io/spooky-potion-shop/">Spooky Potion Shop Web Game</a>
-<p><small>*Please note that this site was made after the merger of four seperate credit unions. Consolidating the existing banking systems and legacy websites has been a continuous ongoing project for several years.</small></p>
+<p><small>*This site was made after the merger of four seperate credit unions. Consolidating the existing banking systems and legacy websites has been a continuous ongoing project in the atlantic credit union system for several years.</small></p>

@@ -1,6 +1,6 @@
 ---
 title: Print
-publishDate: 2019-12-01 00:00:00
+publishDate: 2015-01-26 00:00:00
 img: /marketing-portfolio/assets/stock-2.jpg
 img_alt: An idle clicker Halloween game called Spooky Potion Shop that was developed using React and Vite
 description: |
