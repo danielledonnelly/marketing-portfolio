@@ -11,10 +11,6 @@ tags:
   - Communication
 ---
 
-<!-- ## Where creativity meets engagement -->
-
->
-
 ### Where creativity meets engagement
 
 >#### Building connections

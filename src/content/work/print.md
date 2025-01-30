@@ -1,10 +1,10 @@
 ---
 title: Print
-publishDate: 2015-01-26 00:00:00
+publishDate: 2015-01-24 00:00:00
 img: /marketing-portfolio/assets/stock-2.jpg
 img_alt: An idle clicker Halloween game called Spooky Potion Shop that was developed using React and Vite
 description: |
-  I thrive on the creative challenge of drafting print content that pops off the page. With experience working in a range of mediums (brochures, posters, flyers, letters, etc.), I know how to make any format work.
+  I thrive on the creative challenge of drafting print content that pops off the page. With experience working in a range of mediums (brochures, posters, flyers, and letters), I know how to make any format work.
 tags:
   - Copywriting
   - Design
