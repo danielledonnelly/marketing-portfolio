@@ -27,6 +27,6 @@ My experience combines the precision of professional ghostwriting with the creat
 #### Highlights  
 Here are a few examples of the blogs that I've written.  
 
-- <a href="https://www.carnegielearning.com/blog/success-spotlight-indian-river/" target="_blank" rel="noopener noreferrer">Ways a Delaware District Encouraged Students to Use MATHia</a>  
+- <a href="https://www.carnegielearning.com/blog/success-spotlight-indian-river/" target="_blank" rel="noopener noreferrer">6 Ways a Delaware District Encouraged Students to Use MATHia</a>  
 - <a href="https://www.carnegielearning.com/blog/record-breaking-assessment-scores-oregon/" target="_blank" rel="noopener noreferrer">Record-Breaking State Assessment Scores at Howard Street Charter School</a>  
 - <a href="https://www.carnegielearning.com/blog/8-tips-for-women-in-leadership/" target="_blank" rel="noopener noreferrer">8 Tips FOR Women in Leadership, FROM Women in Leadership</a>  

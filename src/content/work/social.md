@@ -20,10 +20,10 @@ From writing punchy captions to crafting thoughtful long-form posts, I excel at 
 Combining my professional experience with a genuine love for storytelling, I develop social media content that is as innovative as it is impactful. I’m always eager to test new ideas while maintaining clear, audience-driven messaging.
 
 ### Highlights  
-Here are a few examples of social media posts that I have published.
+Here are a few examples of social media posts that I've created.
 
+- <a href="https://twitter.com/carnegielearn/status/1602348287255887872" target="_blank" rel="noopener noreferrer">Carnegie Learning Holiday Sweepstakes Campaign Launch</a>  
 - <a href="https://www.linkedin.com/feed/update/urn:li:activity:7278431339681308673" target="_blank" rel="noopener noreferrer">Atlantic Edge Credit Union Careers Video</a>  
-- <a href="https://twitter.com/carnegielearn/status/1602348287255887872" target="_blank" rel="noopener noreferrer">Carnegie Learning Holiday Sweepstakes Campaign</a>  
-- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7012086183727951872/" target="_blank" rel="noopener noreferrer">Carnegie Learning Multilingual Holiday Video</a>  
-- <a href="https://x.com/ZorbitsMath/status/1584900136202895360" target="_blank" rel="noopener noreferrer">Zorbit's Math Brain Teaser</a>  
 - <a href="https://www.linkedin.com/feed/update/urn:li:activity:6901525016937385984/" target="_blank" rel="noopener noreferrer">Zorbit's Math Workaversary Post</a>  
+- <a href="https://twitter.com/ZorbitsMath/status/1596137130094256132" target="_blank" rel="noopener noreferrer">Zorbit's Math Teacher Testimonial Graphic</a>  
+- <a href="https://x.com/ZorbitsMath/status/1584900136202895360" target="_blank" rel="noopener noreferrer">Zorbit's Math Brain Teaser</a> 
