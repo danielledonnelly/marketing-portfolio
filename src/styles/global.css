@@ -227,6 +227,14 @@ h5 {
 	gap: 12rem;
 }
 
+.about-photo {
+	width: 450px !important;
+	height: 420px !important;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* .title {
 	background-color: #00000F !important;
 } */

@@ -19,7 +19,7 @@ While many of the posters I've made have been printed out and distributed intern
 
 ### Highlights  
 Here are a few examples of my print work:  
-- <a href="https://drive.google.com/file/d/1UDr-juOaNuxshSYxm61Sl5jT5v_3R4iZ/view?usp=sharing">Atlantic Edge Credit Union Loan Campaign Letter</a>
+- <a href="https://drive.google.com/file/d/1lDypVABh25JmtPgQyexACebTYTUklzoa/view?usp=sharing">Atlantic Edge Credit Union Loan Campaign Letter</a>
 - <a href="https://drive.google.com/file/d/1N9Pj3N0RTpBczDycq0VwCAn63YWHnMvz/view?usp=sharing">Atlantic Edge Credit Union Product Brochures</a>
 - <a href="https://drive.google.com/file/d/1D-XU8525AWhr-l1rgn7Jo6S6LKVxVpdQ/view?usp=sharing">Atlantic Edge Credit Union Flyer</a>
 - <a href="https://drive.google.com/file/d/1_2cDzpIBeJV1sNmZnzwbLJdWbfdqDlfT/view?usp=sharing">Atlantic Edge Credit Union Branch Food Bank Poster</a>
