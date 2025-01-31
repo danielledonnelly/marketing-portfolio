@@ -81,13 +81,13 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 				textLinks.map(({ label, href }) => (
 					<li>
 						<a
-							aria-current={Astro.url.pathname === href}
+							aria-current={Astro.url.pathname === href ? "page" : undefined}
 							class:list={[
 								'link',
 								{
 									active:
-										Astro.url.pathname === href ||
-										(href !== '/' && Astro.url.pathname.startsWith(href)),
+										Astro.url.pathname === href || 
+										(href !== '/marketing-portfolio/' && Astro.url.pathname.startsWith(href)),
 								},
 							]}
 							href={href}
@@ -96,7 +96,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 						</a>
 					</li>
 				))
-			}
+			}			
 		</ul>
 		<div class="menu-footer">
 			<div class="socials">
