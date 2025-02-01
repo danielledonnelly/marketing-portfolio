@@ -24,7 +24,9 @@ const projects = (await getCollection('work'))
 // Full Astro Component Syntax:
 // https://docs.astro.build/basics/astro-components/
 ---
-<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<head>
+	<link rel="icon" type="image/png" href="/favicon.png"/>
+</head>
 
 <BaseLayout>
 	<div class="stack gap-20 lg:gap-48">
@@ -57,7 +59,7 @@ const projects = (await getCollection('work'))
 			<section class="section with-background with-cta">
 				<header class="section-header stack gap-2 lg:gap-4">
 					<h3>My Work</h3>
-					<p>You won’t find everything I’ve worked on here, but you’ll get a sense of the style, skills, and approach that I bring to every project.</p>
+					<p>You won’t find everything I’ve worked on here, but you’ll get a sense of the style and skills that I bring to each project.</p>
 				</header>
 
 				<div class="gallery">
@@ -70,15 +72,14 @@ const projects = (await getCollection('work'))
 							))
 						}
 					</Grid>
-				<!-- commented out
 				</div>
-				<div class="cta">
+				<!-- <div class="cta">
 					<CallToAction href="/work/">
 						View All
 						<Icon icon="arrow-right" size="1.2em" />
 					</CallToAction>
-				</div>\
-				-->
+				</div> -->
+				
 			</section>
 		</main>
 
