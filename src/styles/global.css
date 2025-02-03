@@ -101,7 +101,7 @@
 	--gradient-subtle: linear-gradient(150deg, var(--gray-900) 19%, var(--gray-999) 81%);
 	--gradient-accent-orange: linear-gradient(
 		150deg,
-		#e615b5,
+		#7b37a8,
 		var(--accent-regular),
 		var(--accent-light)
 	);
