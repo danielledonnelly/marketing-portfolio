@@ -27,3 +27,5 @@ Here are a few examples of social media posts that I've created.
 - <a href="https://www.linkedin.com/feed/update/urn:li:activity:6901525016937385984/" target="_blank" rel="noopener noreferrer">Zorbit's Math Workaversary Post</a>  
 - <a href="https://twitter.com/ZorbitsMath/status/1596137130094256132" target="_blank" rel="noopener noreferrer">Zorbit's Math Teacher Testimonial Graphic</a>  
 - <a href="https://x.com/ZorbitsMath/status/1584900136202895360" target="_blank" rel="noopener noreferrer">Zorbit's Math Brain Teaser</a> 
+
+I've consistently met social media growth targets and lead successful marketing campaigns that result in <a href="/marketing-portfolio/results" target="_blank" rel="noopener noreferrer">significant growth.</a>
