@@ -176,6 +176,21 @@ h5 {
 	font-size: var(--text-xl);
 }
 
+.graph {
+	border-radius: 10px !important;
+}
+.text-image {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+
+}
+
+.text-image img {
+	max-width: 50%;
+	height: auto;
+}
+
 /* Utilities */
 
 .sr-only {
