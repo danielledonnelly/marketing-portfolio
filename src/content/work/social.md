@@ -11,8 +11,6 @@ tags:
   - Communication
 ---
 
-### Where creativity meets engagement
-
 >#### Building connections
 From writing punchy captions to crafting thoughtful long-form posts, I excel at making a range of engaging content. I’ve created videos, graphics, and text posts for diverse audiences in education, tech, and finance.
 

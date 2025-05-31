@@ -11,20 +11,15 @@ tags:
   - Web Analytics
 ---
 
->
-
-### Holistic management of online experiences
 
 <!-- >#### Drafting and editing
 Whether you're looking to build a site from scratch or update it with new content, I have you covered. I have experience writing for a range of audiences across various platforms, and know how to implent SEO to ensure your content gets the reach it deserves. -->
 
 >#### Responsive design, clear communication
-I have experience designing eye-catching sites in both a personal and professional capacity. Using Canva and Figma, I can draft a variety of
-visuals for whatever your project needs. By complementing great design with strategic content and SEO, I can ensure your site gets the reach it deserves.
+I have experience designing eye-catching sites in both a personal and professional capacity. Using Canva and Figma, I can draft a variety of visuals for whatever your project needs. By complementing great design with strategic content and SEO, I can ensure your site gets the reach it deserves.
 
 >#### Bringing it all together
- I've managed and updated professional websites using a range of CMS platforms: WordPress, Prismic, and ExpressionEngine. 
- I have also built many self-directed projects of my own with tools like Visual Studio Code, GitHub Pages, and Cloudflare Pages. 
+ I've managed and updated professional websites using a range of CMS platforms: WordPress, Prismic, and ExpressionEngine. I have also built my own self-directed projects \(including some fun web games, like <a href="https://kitty-cones.pages.dev/" target="_blank" rel="noopener noreferrer">Kitty Cones</a> and <a href="https://danielledonnelly.github.io/spooky-potion-shop/" target="_blank" rel="noopener noreferrer">Spooky Potion Shop</a>), using Canva, Visual Studio Code, and Cloudflare Pages.
 
 ### Highlights  
 Here are a few examples of sites that I've contributed to. Please note that the first two examples are from my professional work, while the latter three are personal projects that I created independently.
