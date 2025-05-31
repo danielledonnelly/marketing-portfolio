@@ -1,0 +1,101 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+
+const feedbackItems = [
+    {
+        title: "AGM Video",
+        image: "/marketing-portfolio/assets/aecu-feedback-agm-video.png",
+        context: "Our CEO wanted a video for our AGM created on a short timeline. I took full responsibility for this: I reached out to staff to set up interviews, recorded our conversations, and edited the content."
+    },
+    {
+        title: "Brand Video Voiceover",
+        image: "/marketing-portfolio/assets/aecu-feedback-voiceover.png",
+        context: "My manager wanted to cut a snippet of audio out of a brand video. I did this, but noticed it caused the AI voiceover to sound choppy. I took the initiative to re-do the voiceover myself and send her both versions."
+    },
+    {
+        title: "Mortgage Campaign",
+        image: "/marketing-portfolio/assets/aecu-feedback-mortgage-campaign.png",
+        context: "Our CEO reached out to compliment a mortgage email. I was responsible for this campaign at every level: I designed the graphics, wrote the copy, built the landing page, and consulted with several departments to confirm key messaging."
+    }
+];
+---
+
+<BaseLayout title="Feedback | Danielle Donnelly" description="Feedback">
+    <div class="stack gap-20">
+        <main class="wrapper feedback">
+            <Hero
+                title="Feedback"
+                tagline="What others have to say about my work"
+            />
+
+            <section class="feedback-grid">
+                {feedbackItems.map((item) => (
+                    <div class="feedback-item">
+                        <h2 class="feedback-title">{item.title}</h2>
+                        <p class="feedback-context">{item.context}</p>
+                        <img
+                            src={item.image}
+                            alt={`Feedback for ${item.title}`}
+                            class="feedback-image"
+                        />
+                    </div>
+                ))}
+            </section>
+        </main>
+
+        <ContactCTA />
+    </div>
+</BaseLayout>
+
+<style>
+    .feedback {
+        display: flex;
+        flex-direction: column;
+        gap: 3.5rem;
+    }
+
+    .feedback-grid {
+        display: grid;
+        gap: 3rem;
+        grid-template-columns: 1fr;
+        max-width: 1600px;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .feedback-item {
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+        padding: 3rem;
+        background: var(--gray-900);
+        border-radius: 1rem;
+        box-shadow: var(--shadow-md);
+    }
+
+    .feedback-title {
+        font-size: var(--text-xl);
+        color: var(--gray-0);
+    }
+
+    .feedback-image {
+        width: 100%;
+        height: auto;
+        border-radius: 0.5rem;
+    }
+
+    .feedback-context {
+        color: var(--gray-200);
+        font-size: var(--text-base);
+        line-height: 1.6;
+        margin-bottom: 1rem;
+    }
+
+    @media (min-width: 50em) {
+        .feedback-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+</style> 
